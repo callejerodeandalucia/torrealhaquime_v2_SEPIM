@@ -49,7 +49,7 @@
 	<icon src="resources/android/icon/drawable-ldpi-icon.png"/>
     <splash src="resources/android/splash/drawable-port-ldpi-screen.png"/>
     <platform name="ios">
-        <preference name="target-device" value="handset" />
+        <preference name="target-device" value="universal" />
         <!-- no genero splash para iPad (target-device=handset) -->
         <icon src="resources/ios/icon/icon.png" width="57" height="57"/>
         <icon src="resources/ios/icon/icon@2x.png" width="114" height="114"/>
